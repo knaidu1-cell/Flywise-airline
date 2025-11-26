@@ -1,5 +1,5 @@
 # Flywise-airline
-✈️ Flight Data Analysis – 2018 Dataset (Reframed Overview)
+✈️ Flight Data Analysis – 2018 Dataset(Kaggle dataset)
 Overview
 
 This project focuses on cleaning, exploring, and visualizing a 2018 flight operations dataset containing detailed information about flight schedules, delays, carriers, and airport activities. The notebook guides users through preparing raw CSV data for analysis and extracting meaningful insights about flight performance and delay patterns.

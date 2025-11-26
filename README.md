@@ -36,7 +36,7 @@ Python 3
 
 Libraries: pandas, numpy, matplotlib, seaborn
 
-Environment: Google Colab (optional), with Google Drive mounting for file access
+Environment: Google Colab, with Google Drive mounting for file access
 
 Usage
 
